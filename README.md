@@ -8,6 +8,7 @@ Video Demo: https://youtu.be/KOWhUP4i_yw
 ## Change Log
 
 ```
+1.2.0: Migrated to Asset Data Plugin to support both Asset Data and Legacy Stat Messaging
 1.1.0: Added relay supression to avoid relay reactions on top of relay reactions
 1.0.0: Initial release
 ```
